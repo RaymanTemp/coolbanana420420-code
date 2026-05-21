@@ -14,6 +14,7 @@ Security researcher focused on web application security, bug bounty triage, and 
 - [`cyber-tools`](https://github.com/RaymanTemp/cyber-tools) - Recon and vulnerability triage scripts
 - [`security-audits`](https://github.com/RaymanTemp/security-audits) - Sanitized audit-style reports
 - [`exploit-cases`](https://github.com/RaymanTemp/exploit-cases) - Public exploit writeups and postmortems
+- [`bug-bounty-hunts`](https://github.com/RaymanTemp/bug-bounty-hunts) - Curated bounty writeups and PoC case files
 
 ## Working Style
 
